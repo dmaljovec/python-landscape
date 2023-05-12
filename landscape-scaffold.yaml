@@ -1,0 +1,124 @@
+landscape:
+  - category:
+    name: Web
+    subcategories:
+      - subcategory:
+        name: Frameworks
+        items: []
+      - subcategory:
+        name: WSGI
+        items: []
+      - subcategory:
+        name: ASGI
+        items: []
+  - category:
+    name: CLI
+  - category:
+    name: Data
+    subcategories: 
+      - subcategory:
+        name: Data Storage
+        items: []
+      - subcategory:
+        name: Database Interaction
+        items: []
+      - subcategory:
+        name: Data Manipulation
+        items: []
+      - subcategory:
+        name: Data Visualization
+        items: []
+  - category:
+    name: Static Analysis
+    subcategories:
+      - subcategory:
+        name: Formatters
+        items: []
+      - subcategory:
+        name: Linters
+        items: []
+      - subcategory:
+        name: Security
+        items: []
+      - subcategory:
+        name: Code Quality
+        items: []
+  - category:
+    name: Documentation
+    subcategories:
+      - subcategory:
+        name: Documentation Generators
+        items: []
+      - subcategory:
+        name: Documentation Linters
+        items: []
+  - category:
+    name: Developer Tools
+    subcategories:
+      - subcategory:
+        name: Testing
+        items: []
+      - subcategory:
+        name: Debugging
+        items: []
+      - subcategory:
+        name: Profiling
+        items: []
+  - category:
+    name: Debugging
+    subcategories: []
+  - category:
+    name: Packaging
+    subcategories: []
+  - category: 
+    name: Environeent Management
+    subcategories:
+      - subcategory:
+        name: Virtual Environments
+        items: []
+      - subcategory:
+        name: Package Management
+        items: []
+      - subcategory:
+        name: Build Tools
+        items:
+          - item:
+            name: Poetry
+            url: https://python-poetry.org/
+          - item:
+            name: Pipenv
+            url: https://pipenv.pypa.io/en/latest/
+          - item:
+            name: Pipx
+            url: https://pipxproject.github.io/pipx/
+          - item:
+            name: Pip-tools
+            url:
+          - item:
+            name: Hatch
+            url:
+          - item: 
+            name: Flit
+            url:
+          - item:
+            name: Buildout
+            url:
+          
+  - category: 
+    name: Cloud Infrastructure
+    subcategories: []
+  - category:
+    name: Community
+    subcategories: 
+      - subcategory:
+        name: Notable People
+        items: []
+      - subcategory:
+        name: Blogs
+        items: []
+      - subcategory:
+        name: Podcasts
+        items: []
+      - subcategory:
+        name: Websites
+        items: []
