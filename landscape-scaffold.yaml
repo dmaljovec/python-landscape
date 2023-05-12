@@ -3,16 +3,60 @@ landscape:
     name: Web
     subcategories:
       - subcategory:
-        name: Frameworks
+        name: Web Crawlers
+        items:
+          - item:
+            name: Scrapy
+            url: https://scrapy.org/
+          - item:
+            name: Beautiful Soup
+            url: https://www.crummy.com/software/BeautifulSoup/bs4/doc/
+          - item:
+            name: Selenium
+            url: https://www.selenium.dev/
+      - subcategory:
+        name: Web Frameworks
         items: []
       - subcategory:
-        name: WSGI
+        name: Web Servers
         items: []
       - subcategory:
-        name: ASGI
+        name: Web App Monitoring
         items: []
   - category:
-    name: CLI
+    name: Tools
+    subcategories: 
+      - subcategory:
+        name: IDEs
+        items: []
+      - subcategory:
+        name: Editors
+        items: []
+      - subcategory:
+        name: Notebooks
+        items: []
+      - subcategory:
+        name: Code Search
+        items: []
+      - subcategory:
+        name: Code Review
+        items: []
+  - category:
+    name: Local Application
+    subcategories:
+      - subcategory:
+        name: GUI
+        items: []
+      - subcategory:
+        name: Game Engines
+        items: []
+      - subcategory:
+        name: Desktop Apps
+        items: []
+      - subcategory:
+        name: CLI
+        items: []
+
   - category:
     name: Data
     subcategories: 
